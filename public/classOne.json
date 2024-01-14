@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1705226682~exp=1705227282~hmac=d47a8d757b582e44e4c4982846a4e1d1d4ba38ec011d3cfffd9c53a404e85751",
+      "name": "John Doe",
+      "score": "A+",
+      "percentage": 90
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?w=740&t=st=1705227789~exp=1705228389~hmac=369a6a3bba35b826f3cad4392c97bd0b7fe59a08c8358c07e89a59aec463fc89",
+      "name": "Jane Smith",
+      "score": "A",
+      "percentage": 78
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1705227965~exp=1705228565~hmac=2c163f52291848eb93480de33c9efea5536bc5e93add98be068a3774a21e3afe",
+      "name": "Robert Johnson",
+      "score": "A+",
+      "percentage": 82
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?w=1380&t=st=1705227997~exp=1705228597~hmac=520bb05bf432eb5a0bbb16d366106c5b3da77110ccb22f409587baab05b63c79",
+      "name": "Emily Davis",
+      "score": "A+",
+      "percentage": 94
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-photo/handsome-bearded-businessman-rubbing-hands-having-deal_176420-18778.jpg?w=1380&t=st=1705228040~exp=1705228640~hmac=614f106591710782a97202775249912bd0587a5743b5cfc17d8327c97d28a8fe",
+      "name": "Michael Brown",
+      "score": "A",
+      "percentage": 79
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-photo/smiling-young-man-with-crossed-arms-outdoors_1140-255.jpg?w=740&t=st=1705228064~exp=1705228664~hmac=b09bffa29f03f3cb02eda24e6478b5f40b712f9049e6b6e7876dfb5771e442ca",
+      "name": "Sophia Wilson",
+      "score": "A+",
+      "percentage": 85
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?w=1380&t=st=1705228099~exp=1705228699~hmac=4df32fbaf39da1ad0fda03a137cab5a42a5149ecaacba8cbe81b3b2d41a9da19",
+      "name": "Daniel Miller",
+      "score": "A+",
+      "percentage": 91
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg?w=1380&t=st=1705228169~exp=1705228769~hmac=90855736c2cd3d35dc89f74771a57c4694982d1c47ff1db926d2f32081264320",
+      "name": "Olivia Moore",
+      "score": "A+",
+      "percentage": 88
+    },
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?w=1380&t=st=1705228219~exp=1705228819~hmac=439b1b8d4137fa1fca02a599d6cd393d6195748d773aa70ab6adfec16d0f23d6",
+      "name": "Matthew Taylor",
+      "score": "A",
+      "percentage": 76
+    },
+    {
+      "id": 10,
+      "image": "https://img.freepik.com/free-photo/inside-portrait-confident-young-man-white-clothes-posing-with-charming-smile-isolated-wall_291650-95.jpg?w=1380&t=st=1705228269~exp=1705228869~hmac=f4817beac4754c791a1be44aa03e4e135764ef0cbb44e87e7b8df3b7be6f2685",
+      "name": "Ava Anderson",
+      "score": "A+",
+      "percentage": 90
+    }
+  ]
