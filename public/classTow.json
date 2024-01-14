@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/shallow-focus-shot-young-black-male-grey-wall_181624-42453.jpg?w=740&t=st=1705228504~exp=1705229104~hmac=8481049b68a628ed095d4afd7fed5992f61c766b915fac15b29f35f8ba47cfaa",
+      "name": "Alice Johnson",
+      "score": "A+",
+      "percentage": 92
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/handsome-young-man-with-arms-crossed-white-background_23-2148222620.jpg?w=740&t=st=1705228535~exp=1705229135~hmac=f20100f72ec6f1c9accc42b5b432fa0ae30abf098762c3927fa726aff4c39074",
+      "name": "Bob Smith",
+      "score": "A",
+      "percentage": 78
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/portrait-joyful-young-man-white-shirt_171337-17467.jpg?w=1380&t=st=1705228563~exp=1705229163~hmac=57d9a54c0e003eace6086f8bdc5953d412d0a455ba7736c6949b0405e91f1223",
+      "name": "Charlie Davis",
+      "score": "A+",
+      "percentage": 86
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-photo/portrait-cheerful-businessman-dressed-suit_171337-134.jpg?w=1380&t=st=1705228591~exp=1705229191~hmac=ff2eb0afbe27de0c781870100f18a804a958ad612b0fc307bcd800f246e7c6cc",
+      "name": "David Miller",
+      "score": "A+",
+      "percentage": 94
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-photo/smiley-handsome-man-posing_23-2148911843.jpg?w=1060&t=st=1705228624~exp=1705229224~hmac=ce6eb97da188e99e31497f6c34f0464f751219001972306f8c679da8b6587cd1",
+      "name": "Eva Wilson",
+      "score": "A",
+      "percentage": 79
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?w=740&t=st=1705228668~exp=1705229268~hmac=f620cdb9b60080f8ca4ec11cd24a6c7c4633cfbd0c5c4535a39adef673d90e36",
+      "name": "Frank Brown",
+      "score": "A",
+      "percentage": 78
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?w=1380&t=st=1705228695~exp=1705229295~hmac=58a1212b21fba292e0f591ffa8a9da22de8fd209b0e51dfec66414d6cfd81825",
+      "name": "Grace Taylor",
+      "score": "A+",
+      "percentage": 91
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-photo/handsome-young-cheerful-man-with-arms-crossed_171337-1073.jpg?w=1380&t=st=1705228788~exp=1705229388~hmac=fef122f70a19029db14d3dd494c0f2e435a2f084392d9736939eced676dc9fec",
+      "name": "Henry Moore",
+      "score": "A+",
+      "percentage": 85
+    },
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/free-photo/handsome-man-black-suit-with-white-shirt-posing-attractive-guy-with-fashion-hairstyle-confident-man-with-short-beard-adult-boy-with-brown-hair-full-portrait_186202-8529.jpg?w=740&t=st=1705228812~exp=1705229412~hmac=17de34d6079a30bed52b4ba5b4d547b792bc8f2be86475e446c99223ce55f6c6",
+      "name": "Ivy Anderson",
+      "score": "A-",
+      "percentage": 69
+    },
+    {
+      "id": 10,
+      "image": "https://img.freepik.com/free-photo/portrait-pleased-proud-handsome-africanamerican-man-cross-arms-chest-confident-contemplating-something-pleasant-smiling-delighted-look-left-satisfied-white-background_176420-52691.jpg?w=1380&t=st=1705228847~exp=1705229447~hmac=4c0cb90cb4b4c4bf0b5dc872de4e2f9ba9bb708bdac7dbb7adaa83d86c430db6",
+      "name": "Jack Thomas",
+      "score": "A+",
+      "percentage": 90
+    }
+  ]
